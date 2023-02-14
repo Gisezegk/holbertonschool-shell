@@ -1,2 +1,2 @@
 #!/bin/bash
-a=$((128+1209))
+export TRUEKNOWLEDGE=1209 a=$((128+1209))
